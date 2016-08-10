@@ -1,12 +1,11 @@
 React Starter
 ---
 
-Welcome.
+A simple react+express+webpack starter templete.
 
 
 Setup
 ---
-
 ---
 npm install
 ---
@@ -14,7 +13,6 @@ npm install
 
 Compile
 ---
-
 ---
 npm run compile
 ---
